@@ -7,11 +7,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend;Python+%7C+SQL+%7C+IA+Generativa;Criando+solucoes+escalaveis" alt="Typing SVG" />
 </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend;Python+%7C+SQL+%7C+IA+Generativa;Criando+solucoes+escalaveis" alt="Typing SVG" />
-</div>
-
 ---
 
 ## Sobre Mim
