@@ -1,7 +1,7 @@
 # Matheus Eduardo
 
 <div align="center">
-  <img src="foto-github.jpg alt="Typing JPG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend;Python+%7C+SQL+%7C+IA+Generativa;Criando+solucoes+escalaveis" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -24,6 +24,13 @@ Sou um desenvolvedor backend especializado em Python, SQL e IA Generativa. Traba
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
+
+---
+
+## MEU PORTIFOLIO
+
+**Portfólio** - Showcase de projetos e experiências
+[VISITAR](https://github.com/matheuseuardo04-dotcom/PORTIFOLIO)
 
 ---
 
