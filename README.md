@@ -39,7 +39,7 @@ Sou um desenvolvedor backend especializado em Python, SQL e IA Generativa. Traba
   <a href="https://www.linkedin.com/in/matheus-eduardo-6a71463b0?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:me8176755@gmail.com" target="_blank">
+  <a href="mailto:me8164755@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://wa.me/5543996353642" target="_blank">
