@@ -26,10 +26,10 @@ Sou um desenvolvedor backend especializado em Python, SQL e IA Generativa. Traba
 
 ---
 
-## MEU PORTIFOLIO
+## MEU PORTIFÓLIO
 
-**Portfólio** - Showcase de projetos e experiências
-[VISITAR](https://matheuseduardo04-dotcom.github.io/PORTIFOLIO/)
+**Portfólio** - TE CONVIDO PARA VISITAR MEU PORTIFÓLIO!
+[VISITAR PORTIFÓLIO DO MATHEUS](https://matheuseduardo04-dotcom.github.io/PORTIFOLIO/)
 
 ---
 
