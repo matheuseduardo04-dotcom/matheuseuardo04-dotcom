@@ -22,7 +22,7 @@ Sou um desenvolvedor backend especializado em Python, SQL e IA Generativa. Traba
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-181717?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
 
 ---
