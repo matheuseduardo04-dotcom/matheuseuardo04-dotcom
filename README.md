@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="foto-github.jpg" alt="Matheus Eduardo" width="200" style="border-radius: 50%; border: 3px solid #00D4FF;" />
+  <img src="https://raw.githubusercontent.com/matheuseuardo04-dotcom/matheuseuardo04-dotcom/main/foto-github.jpg" alt="Matheus Eduardo" width="200" style="border-radius: 50%; border: 3px solid #00D4FF;" />
 </div>
 
 ---
@@ -24,13 +24,6 @@ Sou um desenvolvedor backend especializado em Python, SQL e IA Generativa. Traba
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
-
----
-
-## MEU PORTIFÓLIO
-
-**Portfólio** - Showcase de projetos e experiências
-[VISITAR](https://matheuseduardo04-dotcom.github.io/PORTIFOLIO/)
 
 ---
 
