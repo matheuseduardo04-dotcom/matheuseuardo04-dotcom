@@ -5,17 +5,16 @@
 </div>
 
 <div align="center">
-  <img src="A83E5CAE-477C-452F-96B7-178BF5EA6E9C.jpeg"
- alt="Matheus Eduardo" width="200" style="border-radius: 50%; border: 3px solid #00D4FF;" />
+  <img src="https://raw.githubusercontent.com/matheuseuardo04-dotcom/matheuseuardo04-dotcom/main/photo.jpeg" alt="Matheus Eduardo" width="200" style="border-radius: 50%; border: 3px solid #00D4FF;" />
 </div>
 
------
+---
 
 ## Sobre Mim
 
 Sou um desenvolvedor backend especializado em Python, SQL e IA Generativa. Trabalho criando soluções robustas e escaláveis que resolvem problemas reais. Apaixonado por código limpo, boas práticas e sempre em busca de aprender novas tecnologias.
 
------
+---
 
 ## Stack Tecnológico
 
@@ -26,16 +25,16 @@ Sou um desenvolvedor backend especializado em Python, SQL e IA Generativa. Traba
   <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
 
------
+---
 
 ## Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuseuardo04-dotcom&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuseuardo04-dotcom&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuseuardo04-dotcom&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuseuardo04-dotcom&layout=compact&langs_count=4&theme=dark" />
 </div>
 
------
+---
 
 ## Projetos em Destaque
 
@@ -48,7 +47,7 @@ Sou um desenvolvedor backend especializado em Python, SQL e IA Generativa. Traba
 **Portfólio** - Showcase de projetos e experiências
 [Ver Repositório](https://github.com/matheuseuardo04-dotcom/PORTIFOLIO)
 
------
+---
 
 ## Contato
 
@@ -64,7 +63,7 @@ Sou um desenvolvedor backend especializado em Python, SQL e IA Generativa. Traba
   </a>
 </div>
 
------
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=matheuseuardo04-dotcom&color=00D4FF" alt="Profile views" />
