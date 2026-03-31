@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/matheuseuardo04-dotcom/matheuseuardo04-dotcom/main/foto-github.jpg" alt="Matheus Eduardo" width="200" style="border-radius: 50%; border: 3px solid #00D4FF;" />
+  <img src="foto-github.jpg" alt="Matheus Eduardo" width="200" style="border-radius: 50%; border: 3px solid #00D4FF;" />
 </div>
 
 ---
