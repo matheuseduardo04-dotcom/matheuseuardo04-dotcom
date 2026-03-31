@@ -1,7 +1,11 @@
 # Matheus Eduardo
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/matheuseuardo04-dotcom/matheuseuardo04-dotcom/main/foto-github.jpg" alt="Matheus Eduardo" width="200" style="border-radius: 50%; border: 3px solid #00D4FF; margin-bottom: 20px;" />
+  <img width="200" src="foto-github.jpg" alt="Matheus Eduardo" style="border-radius: 50%; border: 3px solid #00D4FF; margin-bottom: 20px;" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend;Python+%7C+SQL+%7C+IA+Generativa;Criando+solucoes+escalaveis" alt="Typing SVG" />
 </div>
 
 <div align="center">
