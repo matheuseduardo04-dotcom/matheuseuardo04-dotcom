@@ -29,8 +29,8 @@ Sou um desenvolvedor backend focado em Python, SQL e IA Generativa. Trabalho cri
 
 ## MEU PORTIFÓLIO
 
-**Portfólio** - TE CONVIDO PARA VISITAR MEU PORTIFÓLIO!
-[VISITAR PORTIFÓLIO DO MATHEUS](https://matheuseduardo04-dotcom.github.io/PORTIFOLIO/)
+**Que tal dar uma olhada no meu portifólio?** -
+[VISITE!🫡](https://matheuseduardo04-dotcom.github.io/PORTIFOLIO/)
 
 ---
 
