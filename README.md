@@ -11,7 +11,7 @@
 
 ## Sobre Mim
 
-Sou um desenvolvedor backend focado em Python, SQL e IA Generativa. Trabalho criando soluções robustas e escaláveis que resolvem problemas reais. Apaixonado por código limpo, boas práticas e sempre em busca de aprender novas tecnologias.
+Sou um desenvolvedor backend focado em Python, SQL e Cloud. Trabalho criando soluções robustas e escaláveis que resolvem problemas reais. Apaixonado por código limpo, boas práticas e sempre em busca de aprender novas tecnologias.
 
 ---
 
@@ -22,7 +22,7 @@ Sou um desenvolvedor backend focado em Python, SQL e IA Generativa. Trabalho cri
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/INTELIGÊNCIA ARTIFICIAL-181717?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud AWS-181717?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
 
 ---
