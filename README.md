@@ -5,8 +5,10 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Dev Back-End; Cloud AWS; Git; MySQL; I love You Tecnology" alt="Typing SVG" />
+  <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Dev+Back-End|Cloud+AWS|Git|MySQL|I+love+you+Technology" alt="Typing SVG" />
 </div>
+
 
 
 ## Sobre Mim
