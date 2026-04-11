@@ -12,7 +12,7 @@
 
 ---
 
-## 🙋‍♂️ Sobre Mim
+## Sobre Mim
 
 Sou um desenvolvedor backend focado em **Python**, **MySQL** e **Cloud AWS**. Trabalho criando soluções robustas e escaláveis que resolvem problemas reais. Apaixonado por código limpo, boas práticas e sempre em busca de aprender novas tecnologias.
 
@@ -52,7 +52,7 @@ Sou um desenvolvedor backend focado em **Python**, **MySQL** e **Cloud AWS**. Tr
 
 ---
 
-## 🗂️ Meu Portfólio
+## Meu Portfólio
 
 <div align="center">
 
@@ -62,7 +62,7 @@ Sou um desenvolvedor backend focado em **Python**, **MySQL** e **Cloud AWS**. Tr
 
 ---
 
-## 📬 Contato
+##  Contato
 
 <div align="center">
 
