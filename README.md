@@ -6,7 +6,7 @@
 
 <h1>Matheus Eduardo</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Dev+Back-End+%F0%9F%9A%80;Python+%7C+SQL+%7C+Cloud+%E2%98%81%EF%B8%8F;Solu%C3%A7%C3%B5es+robustas+e+escal%C3%A1veis;Sempre+aprendendo+algo+novo+%F0%9F%93%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Dev+Back-End)](https://git.io/typing-svg)
 
 </div>
 
@@ -63,7 +63,7 @@ Sou um desenvolvedor backend focado em **Python**, **MySQL** e **Cloud AWS**. Tr
 
 <div align="center">
 
-[![Portfólio](https://img.shields.io/badge/🚀%20Visite%20meu%20Portfólio-00D4FF?style=for-the-badge&logoColor=white)](https://matheuseduardo04-dotcom.github.io/PORTIFOLIO/)
+[![Portfólio](https://img.shields.io/badge/%20Visite%20meu%20Portfólio-00D4FF?style=for-the-badge&logoColor=white)](https://matheuseduardo04-dotcom.github.io/PORTIFOLIO/)
 
 </div>
 
