@@ -30,6 +30,7 @@ Sou um desenvolvedor backend focado em **Python**, **MySQL** e **Cloud AWS**. Tr
   </a>
 </div>
 
+## GitHub Status
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
