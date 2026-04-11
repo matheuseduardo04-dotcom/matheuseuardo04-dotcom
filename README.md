@@ -43,8 +43,8 @@ Sou um desenvolvedor backend focado em **Python**, **MySQL** e **Cloud AWS**. Tr
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuseduardo04-dotcom&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00D4FF&title_color=00D4FF&icon_color=00D4FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuseduardo04-dotcom&layout=compact&langs_count=6&theme=tokyonight&border_color=00D4FF&title_color=00D4FF"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheuseduardo04-dotcom&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00D4FF&title_color=00D4FF&icon_color=00D4FF"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheuseduardo04-dotcom&layout=compact&langs_count=6&theme=tokyonight&border_color=00D4FF&title_color=00D4FF"/>
 
 </div>
 
