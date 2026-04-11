@@ -14,7 +14,7 @@
 
 ## 🙋‍♂️ Sobre Mim
 
-Sou um desenvolvedor backend focado em **Python**, **SQL** e **Cloud**. Trabalho criando soluções robustas e escaláveis que resolvem problemas reais. Apaixonado por código limpo, boas práticas e sempre em busca de aprender novas tecnologias.
+Sou um desenvolvedor backend focado em **Python**, **MySQL** e **Cloud AWS**. Trabalho criando soluções robustas e escaláveis que resolvem problemas reais. Apaixonado por código limpo, boas práticas e sempre em busca de aprender novas tecnologias.
 
 - 🔭 Trabalhando com automações, APIs e análise de dados
 - 🌱 Estudando Cloud AWS e boas práticas de engenharia de software
@@ -33,11 +33,9 @@ Sou um desenvolvedor backend focado em **Python**, **SQL** e **Cloud**. Trabalho
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </div>
@@ -87,7 +85,7 @@ Sou um desenvolvedor backend focado em **Python**, **SQL** e **Cloud**. Trabalho
 
 ![Profile Views](https://komarev.com/ghpvc/?username=matheuseduardo04-dotcom&color=00D4FF&style=flat-square&label=Visitas+ao+Perfil)
 
-**Desenvolvedor | Backend | Python | SQL | Cloud | Git**
+**Desenvolvedor Backend | Python | MySQL | Cloud AWS | Git**
 
 </div>
 
